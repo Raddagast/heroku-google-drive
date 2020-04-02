@@ -14,7 +14,7 @@ heroku git:clone -a myapp
 Existing app, use: `add|set`
 
 ```
-heroku buildpacks:set https://github.com/ewwink/heroku-google-drive.git -a myapp
+heroku buildpacks:set https://github.com/Raddagast/heroku-google-drive.git -a myapp
 ```
 
 go to `myapp` directory, create or copy `rclone.conf` and winrar registraton key `.rarreg.key` (optional) then commit the change

@@ -1,13 +1,13 @@
 
 
 # Heroku Google Drive
-Remote [Google Drive client](https://github.com/ewwink/heroku-google-drive) on Heroku using Rclone and Aria2
+Remote [Google Drive client](https://github.com/Raddagast/heroku-google-drive) on Heroku using Rclone and Aria2
 
 ## Installation
 Create new app
 
 ```
-heroku create myapp -b https://github.com/ewwink/heroku-google-drive.git
+heroku create myapp -b https://github.com/Raddagast/heroku-google-drive.git
 heroku git:clone -a myapp
 ```
 
